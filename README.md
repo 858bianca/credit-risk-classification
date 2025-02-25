@@ -10,17 +10,23 @@ Next, I moved on to creating my Logistic Regression Model. The reason for choosi
 ## Results
 
 *Accuracy Score
+
    ** For my overall Logistic Regression Model, I yield a 99% score.
 
 *Precision Score
+
    **Healthy Loan(0): I yield a score of 100%
+   
    **High-Risk Loan(1): I yield a score of 87%
 
 *Recall Score
+
    **Healthy Loan(0): I yield a score of 100%
+   
    **High-Risk Loan(1): I yield a score of 95%
 
 * Machine Learning Model 1:
+* 
     * Overall I belive my model yield good results due to its high scores in accuracy, precision, and recall. 
 
 ## Summary
